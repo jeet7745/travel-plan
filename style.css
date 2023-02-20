@@ -1,0 +1,375 @@
+/*--------Header Starts Here----------*/
+.sec1{
+    width: 100%;
+    height: 1100px;
+    background-color: rgba(105, 95, 0, 0.7);
+    position: relative ;
+    
+}
+
+.hr1{
+    width: 72%;
+    height: 10px;
+    background-color: rgb(40, 226, 40);
+    position: absolute;
+    top: 90px;
+}
+
+.hr2{
+    width: 72%;
+    height: 10px;
+    background-color: rgb(27, 114, 27);
+    position: absolute;
+    top: 100px;
+}
+
+.heading{
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 45px;
+    background-color: rgba(118, 42, 2, 0.4);
+    border-radius: 15px;
+    color: white;
+    font-family: 'Rowdies', cursive;
+}
+/*---------Header Ends Here-----------*/
+
+/*---------Section1 starts Here-------*/
+.sec2{
+    text-align: center;
+    background-color: rgba(118, 42, 2, 0.4); width: 43%; height: 250px;
+    color: white;
+    font-family: 'Bakbak One', cursive;
+    position: absolute;
+    top: 220px;
+    left: 366px;
+
+}
+
+.sec2 p{
+    font-size: 24px;
+}
+.sec2 h1{
+    font-size: 32px;
+}
+/*----------Section1  ends Here-------*/
+
+/*----------Section2 Starts Here-------*/
+.container1{
+    display: grid;
+    grid-template-columns: repeat(3,410px);
+    position: absolute;
+    top: 580px;
+    left: 33px;
+}
+/*----------Section2 Ends Here-------*/
+
+/*----------Section3 Starts Here-------*/
+
+#img1{
+    border: 7px solid rgba(118, 42, 2, 0.4);
+}
+#img2{
+    border: 7px solid rgba(118, 42, 2, 0.4);
+}
+#img3{
+    border: 7px solid rgba(118, 42, 2, 0.4);
+}
+/*----------Section3 Ends here-------*/
+/*----------Section4 Starts Here-----*/
+.sec3{
+    position: absolute;
+    top: 860px;
+    left: 320px;
+    background-color: rgba(118, 42, 2, 0.4); width: 50%;
+}
+
+#p1{
+    color: white;
+    font-size: 24px;
+    font-family:'Bakbak One', cursive ;
+    text-align: center;
+}
+
+#p2{
+    color: white;
+    font-size: 30px;
+    font-family:'Bakbak One', cursive;
+    text-align: center;
+}
+
+#p3{
+    color: white;
+    font-size: 24px;
+    font-family:'Bakbak One', cursive ;
+    text-align: center;
+}
+/*--------Section4 Ends Here--------*/
+
+/*--------Pg2 Header Starts Here-----*/
+.pg2-sec1{
+    width: 100%;
+    height: 1100px;
+    background-color: rgba(105, 95, 0, 0.7);
+    position: relative ;
+}
+
+.pg2-heading{
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 45px;
+    background-color: rgba(118, 42, 2, 0.4);
+    border-radius: 15px;
+    color: white;
+    font-family: 'Rowdies', cursive;
+    
+}
+
+#pg2-title{
+    position: absolute;
+    top: 166px;
+    left: 80px;
+    color: white;
+    background-color: rgba(118, 42, 2, 0.4); width: 30%;
+    text-align: center;
+    font-family:'Rowdies', cursive;
+    font-size: 34px;
+}
+
+.pg2-hr1{
+    width: 58%;
+    height: 10px;
+    background-color: rgb(40, 226, 40);
+    position: absolute;
+    right: 10px;
+    top: 200px;
+}
+
+.pg2-hr2{
+    width: 58%;
+    height: 10px;
+    background-color: rgb(27, 114, 27);
+    position: absolute;
+    right: 10px;
+    top: 210px;
+}
+/*--------Pg2 Header Ends Here---------*/
+
+/*--------Pg2 Section1 Starts Here------*/
+#pg2-sec1{
+    position: absolute;
+    top: 440px;
+    left: 80px;
+    width: 35%;
+    background-color: rgba(118, 42, 2, 0.4);
+    line-height: 90px;
+    color: white;
+    font-family:'Rowdies', cursive; 
+    font-size: 24px;
+}
+/*--------Pg2 Section1 Ends Here--------*/
+/*--------Pg2 Section2 Starts Here------*/
+.container2{
+    position: absolute;
+    right: 30px;
+    top: 430px;
+    background-color: rgba(118, 42, 2, 0.4);
+}
+#pic2{
+    position: absolute;
+    right: 226px;
+    top: 5px;
+    border: 4px solid white;
+    cursor: pointer;
+}
+
+#pic3{
+    position: absolute;
+    right: 14px;
+    top: -33px;
+    border: 4px solid white;
+    cursor: pointer;
+}
+#pic1{
+    position: absolute;
+    right: 227px;
+    top: 249px;
+    border: 4px solid white;
+    cursor: pointer;
+}
+#pic4{
+    position: absolute;
+    right: 3px;
+    top: 250px;
+    border: 4px solid white;
+    cursor: pointer;
+}
+
+.pic2:hover{
+    transform: translate(-200px);
+}
+/*-------Pg2 Section2 Ends Here--------*/
+
+/*-------Pg3 Header Starts Here--------*/
+.pg3-sec1{
+    width: 100%;
+    height: 1100px;
+    background-color: rgba(105, 95, 0, 0.7);
+    position: relative ;
+}
+.pg3-hr1{
+    width: 72%;
+    height: 10px;
+    background-color: rgb(40, 226, 40);
+    position: absolute;
+    top: 90px;
+}
+
+.pg3-hr2{
+    width: 72%;
+    height: 10px;
+    background-color: rgb(27, 114, 27);
+    position: absolute;
+    top: 100px;
+}
+
+.pg3-heading{
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 45px;
+    background-color: rgba(118, 42, 2, 0.4);
+    border-radius: 15px;
+    color: white;
+    font-family: 'Rowdies', cursive;
+}
+/*-----------Pg3 Header Ends Here-----------*/
+
+/*-----------Pg3 Section1 Starts Here-------*/
+.pg3-sec2{
+    position: absolute;
+    top: 160px;
+    left: 87px;
+    background-color: rgba(118, 42, 2, 0.4);
+    color: white;
+    font-size: 24px;
+    font-family:'Bakbak One', cursive ;
+    width: 49%;
+}
+.pg3-sec2 ul{
+    line-height: 45px;
+}
+/*------------Pg3 Section1 Ends Here---------*/
+
+/*------------Pg3 Section2 Starts here-------*/
+.pg3-sec3{
+    position: absolute;
+    bottom: 38px;
+    right: 87px;
+    background-color: rgba(118, 42, 2, 0.4);
+    color: white;
+    font-size: 24px;
+    font-family:'Bakbak One', cursive ;
+    width: 36%;
+}
+.pg3-sec3 ul{
+    line-height: 45px;
+}
+/*---------Pg3 Section2 Ends Here-----------*/
+
+/*---------Pg4 Header Starts Here-----------*/
+.pg4-sec1{
+    width: 100%;
+    height: 1100px;
+    background-color: rgba(105, 95, 0, 0.7);
+    position: relative ;
+}
+#pg4-title{
+    position: absolute;
+    top: 168px;
+    left: 30px;
+    color: white;
+    background-color: rgba(118, 42, 2, 0.4); width: 444px;
+    font-size: 34px;
+    text-align: center;
+    font-family:'Rowdies', cursive ;
+
+}
+/*--------Pg4 Header Ends Here------------*/
+
+/*--------Pg4 Section1 Starts HEre---------*/
+#line1{
+    position: absolute;
+    top: 310px;
+    left: 306px;
+    background-color: rgba(118, 42, 2, 0.4); width: 50%;
+    color: white;
+    text-align: center;
+    font-family: 'Bakbak One', cursive;
+    font-size: 28px;
+
+}
+#line2{
+    position: absolute;
+    top: 410px;
+    left: 410px;
+    background-color: rgba(118, 42, 2, 0.4); width: 36%;
+    color: white;
+    text-align: center;
+    font-family: 'Bakbak One', cursive;
+    font-size: 28px;
+
+}
+#line3{
+    position: absolute;
+    top: 450px;
+    left: 450px;
+    background-color: rgba(118, 42, 2, 0.4); width: 30%;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Bakbak One', cursive;
+    font-size: 28px;
+
+}
+/*------------Pg4 Section1 Ends Here----------*/
+
+/*------------Pg4 Section2 Starts Here---------*/
+#pg4-pic2{
+    position: absolute;
+    top: 600px;
+    left: 40px;
+    border: 7px solid white;
+}
+
+#pg4-pic4{
+    position: absolute;
+    top: 600px;
+    left: 470px;
+    border: 7px solid white;
+}
+
+#pg4-pic1{
+    position: absolute;
+   right:40px ;
+    top: 600px;
+    border: 7px solid white;
+}
+/*------------Pg4 Section2 Ends Here---------*/
+
+/*------------Pg4 Section3 Starts Here-------*/
+#line4{
+    position: absolute;
+    top:930px ;
+    left: 390px;
+    color: white;
+    background-color: rgba(118, 42, 2, 0.4); width: 40%;
+    text-align: center;
+    font-family: 'Bakbak One', cursive;
+    font-size: 24px;
+}
+/*-----------Pg4 Section3 Ends Here-----------*/
+
+/*-----------Pg4 Footer Starts Here-----------*/
